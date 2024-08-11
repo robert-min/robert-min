@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - [Brickstudy Github](https://github.com/brickstudy)
 
-- [Brickstudy Team Blog](https://brickstudy.tistory.com/)
+- [Brickstudy Team Blog](https://brickstudy.tistory.com/search/%EA%B9%80%EB%AF%BC%EC%A4%80)
 
 - [FLYAI Github](https://github.com/FLYAI4)
 
